@@ -5,5 +5,4 @@ We looked at the following approaches:
 - MLNN
 - Population Vectors
 - LinReg+KNN
-- Kalman Filter
 -  MultiVoxel Pattern Analysis
